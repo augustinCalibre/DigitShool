@@ -4,8 +4,11 @@
   "description": "authentification directotory for numérique school admin",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon server"
+    "start": "node app.js"
+    
+  },
+  "engines": {
+    "node": "16.13.2"
   },
   "author": "augustin GRAH & Obed",
   "license": "ISC",
