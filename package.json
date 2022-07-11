@@ -4,7 +4,7 @@
   "description": "authentification directotory for numérique school admin",
   "main": "app.js",
   "scripts": {
-    "start": "cross-env NODE_ENV=production node server",
+    "start": "node app.js",
     "dev": "nodemon server"
   },
   "author": "augustin GRAH & Obed",
